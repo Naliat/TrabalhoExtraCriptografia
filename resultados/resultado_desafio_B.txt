@@ -1,0 +1,6 @@
+=== DESAFIO B: SEGUNDA PRÉ-IMAGEM ===
+x1 (fixo): Aluno: Tailan de Souza Oliveira
+x2 (encontrado): pBmpOviWdgnM8q1
+Hash Comum: 04AE1ACD
+Núcleo Vencedor: 4
+Tentativas aproximadas por núcleo: 58633376

@@ -1,0 +1,4 @@
+=== DESAFIO A: QUEBRA DE RESISTÊNCIA A COLISÃO ===
+Tentativas: 99419
+String 1: DGAlk4MrgvS7 | Hash: EC949A40
+String 2: T3gIp1yaHbOl | Hash: EC949A40

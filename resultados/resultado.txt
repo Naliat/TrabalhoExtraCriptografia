@@ -1,5 +1,5 @@
 === SUCESSO NA QUEBRA DE PRÉ-IMAGEM ===
 Alvo: 49FC0AA4
-Candidato encontrado (x): v2MRCqv8XQXu
+Candidato encontrado (x): g5wpekdLml1x
 Hash gerado: 49FC0AA4
-Núcleo vencedor: 3
+Núcleo vencedor: 4
