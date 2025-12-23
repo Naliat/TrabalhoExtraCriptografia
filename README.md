@@ -19,11 +19,17 @@ Os desafios demonstraram a quebra das três propriedades fundamentais de seguran
 * **Hash Comum**: `04AE1ACD`.
 * **Tempo Total**: **1111.16 segundos**.
 
+![Análise de Auditoria](verificacaoCyberChef/verificandoResultadoB1.png)
+
+![Análise de Auditoria](verificacaoCyberChef/verificandoResultadoB2.png)
+
 ### 3. Resistência à Pré-imagem (Desafio C)
 * **Objetivo**: Dado apenas o hash $h$, encontrar um $x$ correspondente.
 * **Hash Alvo**: `49FC0AA4` (Dificuldade de 34 bits).
 * **Candidato Encontrado**: `g5wpekdLml1x`.
 * **Tempo Total**: **7384.41 segundos** (~2h 03min).
+
+![Análise de Auditoria](verificacaoCyberChef/verificandoResultadoC.png)
 
 ---
 
