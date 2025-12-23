@@ -1,0 +1,14 @@
+Iniciando busca no Núcleo 3 - Alvo: 49FC0AA4
+Tentativa 0: k2CviNwT7UOJ -> D1A631C1
+Tentativa 1000000: 7SSqlPU6mPM2 -> 3F02CF13
+Tentativa 2000000: LNFwgRPXrZGP -> F924B5B4
+Tentativa 3000000: ySJFw5Xr7OKG -> 5DC6A3E2
+Tentativa 4000000: Yo2L5iu5uOdV -> AC3A3532
+Tentativa 5000000: xhodbDkprpCD -> 310A85FB
+Tentativa 6000000: 4j3LTRg7OwjP -> 238CAE0B
+Tentativa 7000000: nU0p2xtYAb3Y -> 6AB6133E
+Tentativa 8000000: ljmdEMGlYHcI -> DB17AFDE
+Tentativa 9000000: PM6EyWbXVl7U -> EDFDC996
+Tentativa 10000000: VRRwDtywBDgd -> 20D1D795
+Tentativa 11000000: j8sqov595laF -> CF3B10C4
+Tentativa 12000000: anLa9MWbjZ98 -> FF13A5DC
